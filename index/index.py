@@ -3,9 +3,9 @@ inverted_index.py
 
 Build a basic (naive) inverted index for a simple (naive) documents set
 Please Run this script using Python3.x
-Tested under Python3.6, Win7 and Python3.5 ubuntu16.04
-Author: Richy Zhu
-Email: rickyzhu@foxmail.com
+
+Author: tao
+Email: 1342225836@qq.com
 """
 
 import json
